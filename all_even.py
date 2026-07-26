@@ -7,4 +7,4 @@ def even(a,b) :
 a = int(input("Enter first number : "))
 b = int(input("Enter second number : "))
 print("Existing even numbers between",a,"to",b,"are :")
-print(even(a,b))
+even(a,b)
