@@ -8,3 +8,6 @@ class Teacher(Employee):
 
 t1 = Teacher()
 t1.get_designation()
+
+t1 = Employee()
+t1.get_designation()
